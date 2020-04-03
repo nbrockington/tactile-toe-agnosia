@@ -12,6 +12,6 @@ Summary and interview in Smithsonian Magazine: https://www.smithsonianmag.com/sm
 
 # About the scripts
 
-The main script to analyse the data and generate the figures for publication is `DA_qad_DI_analysis.m`. The other scripts are support scripts, some of which are called by the main script. The data were originally saved as tab-separated value text files where the first, second and third columns represeted the trial number, stimulated digit ID and reported digit ID; the data arrays were saved to .mat files for further analysis. 
+The main script to analyse the data and generate the figures for publication is `DA_qad_DI_analysis.m`. The other scripts are support scripts, some of which are called by the main script. The data were originally saved as tab-separated value text files where the first, second and third columns represented the trial number, stimulated digit ID and reported digit ID, respectively; these data arrays were imported to MATLAB and saved to .mat files for further analysis. 
 
 All scripts were written solely by me, between 2012 - 2015. 
