@@ -9,6 +9,8 @@ BBC Radio 5 live clip and replication: https://www.bbc.co.uk/programmes/p03357dz
 
 Summary and interview in Smithsonian Magazine: https://www.smithsonianmag.com/smart-news/people-cant-tell-which-their-toes-being-touched-180956718/
 
+The results of this study were independentally replicated by an unconnected research group; the replications and advancements in this 2018 study can be viewed here: http://www.bbk.ac.uk/psychology/bodylab/docs/manser-smithEtal-acta-2019.pdf
+
 
 # About the scripts
 
